@@ -1,0 +1,11 @@
+
+Enter number of requests:
+Enter the header:
+
+Enter total number of cylinders:
+
+Enter the previous position:
+Enter the requests:
+Movement of header:
+ head:150 to 99  to 87  to 80  to 78  to 65  to 39  to 22  to 20  to 17  to 15 
+Total header move ment:-135

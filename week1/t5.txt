@@ -1,0 +1,6 @@
+#include<stdio.h>
+#include<fcntl.h>
+void main()
+{
+  unlink("15co118/and1.txt");
+}

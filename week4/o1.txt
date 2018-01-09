@@ -1,0 +1,7 @@
+enter the header pos
+enter the no of cylinders
+enter the number of requests
+enter the previous request
+enter the requests
+140 (0)->200 (0)->0 (260)->15(275)->17(277)->20(280)->22(282)->39(299)->65(325)->78(338)->80(340)->87(347)->99(359)
+total head movement 359
